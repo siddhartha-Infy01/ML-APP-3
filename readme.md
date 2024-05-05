@@ -1130,6 +1130,7 @@ print("Accuracy on Test Set: ", accuracy)
     Best Score: 0.9021244309559939
     Accuracy on Test Set:  0.9030104394270454
 
+### Problem 10: Model Comparisons
 
 |  Model | Best Parameters | Best Estimator | Best Score |
 | ----- | ---------- | -------------  | -----------   |
